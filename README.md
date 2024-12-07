@@ -239,8 +239,3 @@ OutputCopy
 232.777777777778
 Note
 Fahrenheit 451
-
-
-
-
-
